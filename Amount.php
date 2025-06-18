@@ -67,7 +67,7 @@ $pass=$_SESSION['password'];
             transition-duration: 0.1s;
             font-family: 'Rethink Sans', sans-serif;
 
-            /* border: 1px solid; */
+            /* border: 1px solid;  */
 
 
         }
