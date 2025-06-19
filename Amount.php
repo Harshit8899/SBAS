@@ -10,7 +10,7 @@ $pass=$_SESSION['password'];
            $men='menofproject.png';
            $lock='lock2-removebg-preview.png';
            $globe='globe.png';
-           $doller='doller.png';
+           $doller='doller.png' ;
 
 
 ?>
