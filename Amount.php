@@ -5,7 +5,7 @@ $acc=$_SESSION['Account'];
 $pass=$_SESSION['password'];
 
 
-
+           //  imporatnt variables
            $back='Home_background_2.png';
            $men='menofproject.png';
            $lock='lock2-removebg-preview.png';
